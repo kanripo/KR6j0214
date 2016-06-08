@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:04.816768
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:35
 #+TITLE: 華嚴經心陀羅尼
 #+PROPERTY: CBETA_ID T19n1021
 #+PROPERTY: ID KR6j0214
